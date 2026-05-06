@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "NEXAR_SMP.aternos.me",
+    "port": 62273,
     "version": "",
     "try-creative": false
   },
